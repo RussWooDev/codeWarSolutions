@@ -25,3 +25,4 @@ function duplicateEncode(word){
     }
   return newString;
   }
+//practice again
